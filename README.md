@@ -31,8 +31,8 @@
 
 <script>
     // Nom d'utilisateur et mot de passe autorisés
-    const validUsername = "votre_nom_utilisateur";
-    const validPassword = "votre_mot_de_passe";
+    const validUsername = "faresmridi";
+    const validPassword = "Tarajiyadawla1919++";
 
     // Fonction pour afficher le formulaire de connexion
     function showLoginForm() {
